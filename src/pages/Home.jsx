@@ -8,8 +8,8 @@ import Marquee from '../sections/Marquee'
 const Home = () => {
   return (
     <>
-      {/* <Hero></Hero>
-      <About></About>
+      <Hero></Hero>
+      {/* <About></About>
       <Services/>
       <Works/>
       <Marquee></Marquee> */}
